@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarouaneBENHASSI
-- 👀 I’m interested in data dnalysis in high energy physics
+- 👀 I’m interested in data dnalysis
 - 🌱 I’m currently doing my PhD within the KM3NeT collaboration
 - 📫 How to reach me: marouanebenhassi97@gmail.com
 
